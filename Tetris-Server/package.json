@@ -1,0 +1,14 @@
+{
+  "name": "tetrisnodeserver",
+  "version": "1.0.0",
+  "description": "Tetris node.js server for Java APCS project (Tetris Battle 2P)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamsheed Mistri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
